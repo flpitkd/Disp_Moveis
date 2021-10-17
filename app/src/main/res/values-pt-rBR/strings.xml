@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Trabalho Felipi</string>
+    <string name="action_settings">Configurações</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+
+    <string name="txtHintnome">Nome do Professor</string>
+    <string name="txtHinttelefone">Telefone do Professor</string>
+    <string name="txtHintestado">Estado</string>
+    <string name="txtHintcidade">Cidade do Professor</string>
+    <string name="txtSalvar">Salvar</string>
+    <string name="txtcadastrar">Cadastrar Professor</string>
+    <string name="txtbuscar">Buscar Professor</string>
+    <string name="txtprof">Lista de Professores</string>
+
+
+    <string-array name="categorias">
+        <item>Selecione o estado...</item>
+        <item>RS</item>
+        <item>SC</item>
+        <item>PR</item>
+    </string-array>
+
+
+</resources>
